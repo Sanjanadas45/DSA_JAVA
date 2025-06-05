@@ -1,4 +1,5 @@
-import java.util.*;
+package Maths_DSA;
+
 public class Magic_Number {
     public static void main(String[] args) {
         int n = 4; //it means that to find the 4th(nth) magic number

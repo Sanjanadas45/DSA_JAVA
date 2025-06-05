@@ -1,4 +1,5 @@
-import java.util.*;
+package Binary_Search_ALL;
+
 public class RBS_Duplicates {
     public static int findPivotwithDuplicates(int[] arr){
         int start = 0;

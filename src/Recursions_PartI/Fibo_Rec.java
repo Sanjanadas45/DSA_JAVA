@@ -1,4 +1,4 @@
-package Recursions;
+package Recursions_PartI;
 
 public class Fibo_Rec {
     public static void main(String[] args){

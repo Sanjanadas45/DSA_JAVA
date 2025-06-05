@@ -1,4 +1,7 @@
-import java.util.*;
+package Basics1st;
+
+import java.util.Scanner;
+
 public class Prime_Num {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

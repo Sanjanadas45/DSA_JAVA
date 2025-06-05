@@ -1,4 +1,5 @@
-import java.util.*;
+package Maths_DSA;
+
 public class Setbits {
     public static void main(String[] args) {
         int n = 626;
