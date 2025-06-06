@@ -1,3 +1,4 @@
+//To find out whether the given String is Palindrome or not.
 package ASSIGNMENTS;
 import java.util.Scanner;
 

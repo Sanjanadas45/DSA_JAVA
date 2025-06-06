@@ -1,3 +1,4 @@
+//Take a number as input and print the multiplication table for it.
 package ASSIGNMENTS;
 
 public class Multiplication_Table {

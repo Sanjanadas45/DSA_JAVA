@@ -1,3 +1,4 @@
+//To calculate Fibonacci Series up to n numbers.
 package ASSIGNMENTS;
 import java.util.Scanner;
 

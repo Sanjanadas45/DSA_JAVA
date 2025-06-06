@@ -1,3 +1,4 @@
+//Input currency in rupees and output in USD.
 package ASSIGNMENTS;
 import java.util.Scanner;
 
